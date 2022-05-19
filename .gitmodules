@@ -1,1 +1,3 @@
-
+[submodule "gb-shop-mart-thymeleaf/gb-api"]
+	path = gb-shop-mart-thymeleaf/gb-api
+	url = git@github.com:ViktorKhalezov/gb-api.git
