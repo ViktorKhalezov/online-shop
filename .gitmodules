@@ -1,3 +1,6 @@
 [submodule "gb-api-mart"]
 	path = gb-api-mart
 	url = git@github.com:ViktorKhalezov/gb-api-mart.git
+[submodule "gb-api"]
+	path = gb-api
+	url = git@github.com:ViktorKhalezov/gb-api.git
