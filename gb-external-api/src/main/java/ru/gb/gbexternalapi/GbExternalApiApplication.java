@@ -10,4 +10,5 @@ public class GbExternalApiApplication {
         SpringApplication.run(GbExternalApiApplication.class, args);
     }
 
+
 }
